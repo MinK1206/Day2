@@ -1,0 +1,8 @@
+class SimpleArithmetic
+{
+  public static void main(String[] args)
+  {
+    int a = 10;
+    int b = 5;
+    
+    Stystem.out.println (a+b);
